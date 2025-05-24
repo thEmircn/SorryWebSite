@@ -25,11 +25,6 @@ Eğer 10 kere hayır derseniz... o zaman sadece bir yol kalır... 😢
    git clone https://github.com/thEmircn/SorryWebSite.git
 Klasöre girin:
 
-
-Kopyala
-
-Düzenle
-
 cd SorryWebSite
 
 index.html dosyasını çift tıklayarak tarayıcıda açın.
